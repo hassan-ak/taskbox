@@ -26,3 +26,5 @@ build-storybook.log
 /storybook-static
 
 public_
+
+/dist
